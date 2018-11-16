@@ -1,10 +1,10 @@
 {
-  "name": "nguyenducdn87/bigbluebutton",
+  "name": "nguyenducdn87/laravel-bigbluebutton",
   "description": "Bigbluebutton wrapper for laravel 5",
   "license": "MIT",
   "keywords": [
     "laravel",
-    "bigbluebutton",
+    "laravel-bigbluebutton",
     "wrapper"
   ],
   "authors": [

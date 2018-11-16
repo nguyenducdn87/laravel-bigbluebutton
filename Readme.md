@@ -9,7 +9,7 @@ This is a laravel wrapper for BigBlueButton API
 
 Require package in your composer.json and update composer.  This downloads the package and the official bigbluebutton php library. 
 ```
-composer require nguyenducdn87/bigbluebutton
+composer require nguyenducdn87/laravel-bigbluebutton
 ```
 
 ## Usage
