@@ -16,7 +16,7 @@
   "require": {
     "php": ">=7.0.0",
     "laravel/framework": "5.5.*",
-    "bigbluebutton/bigbluebutton-api-php": "dev"
+    "bigbluebutton/bigbluebutton-api-php": "dev-master"
   },
   "autoload": {
     "psr-4": {
@@ -35,6 +35,5 @@
     "branch-alias": {
       "dev-master": "0.5-dev"
     }
-  },
-  "minimum-stability": "dev"
+  }
 }
