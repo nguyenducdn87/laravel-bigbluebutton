@@ -3,14 +3,14 @@
 This is a laravel wrapper for BigBlueButton API
 ## Requirements
 
-- Laravel 5.3 or above.
+- Laravel 5.5 or above.
 
 ## Installation
 
 Require package in your composer.json and update composer.  This downloads the package and the official bigbluebutton php library. 
 
 ```
-composer require abiodunjames/bigbluebutton
+composer require nguyenducdn87/bigbluebutton
 ```
 
 After updating composer, add the ServiceProvider to the providers array in config/app.php
