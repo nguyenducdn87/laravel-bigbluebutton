@@ -1,7 +1,7 @@
 <?php
-namespace Abiodunjames\Bigbluebutton;
+namespace DucNguyen\Bigbluebutton;
 
-use Abiodunjames\Bigbluebutton\Contracts\Meeting;
+use DucNguyen\Bigbluebutton\Contracts\Meeting;
 use BigBlueButton\BigBlueButton;
 use BigBlueButton\Parameters\CreateMeetingParameters;
 use BigBlueButton\Parameters\EndMeetingParameters;

@@ -1,5 +1,5 @@
 <?php
-namespace Abiodunjames\Bigbluebutton;
+namespace DucNguyen\Bigbluebutton;
 
 use Illuminate\Support\Facades\Facade;
 

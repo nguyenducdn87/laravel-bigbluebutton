@@ -34,7 +34,7 @@ namespace App\Http\Controllers;
 class MeetingController extends Controller
 {
     /**
-     * @var \Abiodunjames\Bigbluebutton\Contracts\Meeting
+     * @var \DucNguyen\Bigbluebutton\Contracts\Meeting
      */
     protected $meeting;
 
@@ -56,14 +56,14 @@ class MeetingController extends Controller
 ```
 **Create meeting**
 ```php
-use Abiodunjames\Bigbluebutton\Contracts\Meeting;
+use DucNguyen\Bigbluebutton\Contracts\Meeting;
 use BigBlueButton\Parameters\CreateMeetingParameters;
 use Illuminate\Http\Request;
 
 class MeetingController extends Controller
 {
     /**
-     * @var \Abiodunjames\Bigbluebutton\Contracts\Meeting
+     * @var \DucNguyen\Bigbluebutton\Contracts\Meeting
      */
     protected $meeting;
 
@@ -92,14 +92,14 @@ class MeetingController extends Controller
 ```
 **Join a meeting**
 ```php
-use Abiodunjames\Bigbluebutton\Contracts\Meeting;
+use DucNguyen\Bigbluebutton\Contracts\Meeting;
 use BigBlueButton\Parameters\JoinMeetingParameters;
 use Illuminate\Http\Request;
 
 class MeetingController extends Controller
 {
     /**
-     * @var \Abiodunjames\Bigbluebutton\Contracts\Meeting
+     * @var \DucNguyen\Bigbluebutton\Contracts\Meeting
      */
     protected $meeting;
 
@@ -127,14 +127,14 @@ class MeetingController extends Controller
 **Close meeting**
 ```php
 
-use Abiodunjames\Bigbluebutton\Contracts\Meeting;
+use DucNguyen\Bigbluebutton\Contracts\Meeting;
 use BigBlueButton\Parameters\EndMeetingParameters;
 use Illuminate\Http\Request;
 
 class MeetingController extends Controller
 {
     /**
-     * @var \Abiodunjames\Bigbluebutton\Contracts\Meeting
+     * @var \DucNguyen\Bigbluebutton\Contracts\Meeting
      */
     protected $meeting;
 
