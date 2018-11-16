@@ -16,7 +16,7 @@
   "require": {
     "php": ">=7.0.0",
     "laravel/framework": "5.5.*",
-    "bigbluebutton/bigbluebutton-api-php": "dev-master"
+    "bigbluebutton/bigbluebutton-api-php": "^2.0"
   },
   "autoload": {
     "psr-4": {
@@ -31,9 +31,6 @@
       "aliases": {
         "Meeting": "DucNguyen\\Bigbluebutton\\BigbluebuttonMeeting"
       }
-    },
-    "branch-alias": {
-      "dev-master": "0.5-dev"
     }
   }
 }
